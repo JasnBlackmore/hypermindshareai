@@ -58,9 +58,7 @@ Our current focus is developing **core infrastructure and agent functionality**.
 
 - [x] Wallet Portfolio
 - [ ] Transaction Parser
-- [] NFT Operations
-- [x] Basic Token Operations
-  - [x] Send/Swap Tokens
+
 - [x] DeFi Integration
   - [x] Dexscreener Integration
     - [x] Token Profile
@@ -71,7 +69,7 @@ Our current focus is developing **core infrastructure and agent functionality**.
 ### Market Intelligence
 
 - [x] Token Trends (via Dexscreener)
-- [] NFT Trends 
+- [ ] NFT Trends 
 
 ## Contributing
 
