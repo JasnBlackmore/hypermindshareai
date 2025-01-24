@@ -2,7 +2,7 @@
 
 > The Intelligent Copilot for HyperLiquid
 
-HyperMindshare is an **open-source**, full-stack application that brings together the power of LLM models and blockchain technology. Designed for the [HyperLiquid](https://hyperfoundation.org/) ecosystem, HyperMindshare enables seamless interactions with DeFi protocols, NFTs, and much more.
+HyperMindshare is an **open-source**, full-stack application that brings together the power of LLM models and blockchain technology. Designed for the [HyperLiquid](https://hyperfoundation.org/) ecosystem, HyperMindshare enables seamless interactions with DeFi protocols, and much more.
 
 [![GitHub stars](https://img.shields.io/github/stars/JasnBlackmore/hypermindshareai?style=flat-square)](https://github.com/JasnBlackmore/hypermindshareai/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/JasnBlackmore/hypermindshareai/blob/main/LICENSE)
